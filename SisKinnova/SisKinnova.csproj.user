@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Usuario\source\repos\SisKinnova\SisKinnova\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Apagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Aprende.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Archivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Asuntos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Biblioteca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chrome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ciencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Duolingo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Horario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Juegos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Monitoreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Need.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Numeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PowerPoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reiniciar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Scratch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Virus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Word.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

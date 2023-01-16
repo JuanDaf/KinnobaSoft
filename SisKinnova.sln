@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SisKinnova", "SisKinnova\SisKinnova.csproj", "{7890423C-6378-44CC-8C38-E881781A1543}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KinnovaSoft", "KinnovaSoft\KinnovaSoft.vdproj", "{3A65D7D6-96FC-4E84-9F9F-C9D2F8D445B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7890423C-6378-44CC-8C38-E881781A1543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7890423C-6378-44CC-8C38-E881781A1543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7890423C-6378-44CC-8C38-E881781A1543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7890423C-6378-44CC-8C38-E881781A1543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A65D7D6-96FC-4E84-9F9F-C9D2F8D445B5}.Debug|Any CPU.ActiveCfg = Debug
+		{3A65D7D6-96FC-4E84-9F9F-C9D2F8D445B5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75134C30-3B53-4D42-B4A0-3FE8644D6371}
+	EndGlobalSection
+EndGlobal
